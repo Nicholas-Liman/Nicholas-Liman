@@ -40,4 +40,4 @@
 <a href="https://www.linkedin.com/in/nicholas-liman/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div></a>
 
-![Snake animation](https://github.com/nicholas.liman/nicholas.liman/blob/output/github-contribution-grid-snake.svg)
+
