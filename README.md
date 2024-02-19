@@ -1,5 +1,5 @@
 # Olá, sou Nicholas. 
-## Bem vindo ao meu perfil GitHub 👋
+## Sou estudante universitário, no momento estou me graduando em Análise e Desenvolvimento de Sistemas
 
 ### Estou me especializando para me tornar um Engenheiro de I.A. ou Machine Learning:
 #### Coisas que estou aprendendo no momento:
