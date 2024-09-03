@@ -60,7 +60,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicholas-Liman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div></a>
 
-
 ## Contatos:
 
 <div>
@@ -68,6 +67,14 @@
 <a href="https://www.linkedin.com/in/nicholas-liman/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div></a>
 
+###
+
+<img src="https://raw.githubusercontent.com/Nicholas-Liman/Nicholas-Liman/output/snake.svg" alt="Snake animation" />
+
+###
+
 #### Recursos do read.me:
 https://devicon.dev/
 https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+
