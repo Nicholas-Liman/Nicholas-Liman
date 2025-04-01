@@ -1,11 +1,5 @@
-# Olá, sou Nicholas. 
-## Sou graduando da Fiap, no momento estou me graduando em Análise e Desenvolvimento de Sistemas
+### Olá, sou Nicholas, graduando em Análise e Desenvolvimento de Sistemas pela Fiap. Estou me especializando para me tornar um Engenheiro de IA ou de Dados, com experiência em diversas linguagens de programação e ferramentas de desenvolvimento.
 
-### Estou me especializando para me tornar um Engenheiro de I.A. ou de Dados
-#### A fonte dos meus pesadelos:
-<div style="display: inline">
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="80"/>
-</div><br>
 
 #### Meus softwares de organização:
 <div style="display: inline">
